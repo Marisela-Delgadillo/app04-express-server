@@ -1,14 +1,14 @@
 {
   "name": "app04-express-server",
   "version": "0.0.1",
-  "description": "express server hecho por mi",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Marisela Delgadillo",
-  "license": "UNLICENSED",
+  "author": "Jesus Caro",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
   }
