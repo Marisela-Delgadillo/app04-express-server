@@ -36,12 +36,12 @@ app.get('/', (request, response) =>
     response.send(tacos);
 });
 
-app.get('/:id', (request, response) =>
+/*app.get('/:id', (request, response) =>
 {
     const {id} = request.params; //estos son los parametros
     const taco = tacos.find(taco => taco.id == id);//en este taco => me vas a devolver como resultado cuando el id de ese taco sea igual como el que meti
     response.send(taco);
-});
+});*/
 
 // app.get('/:name', (request, response) =>
 // {
